@@ -30,9 +30,9 @@ Here are the simple steps to create your NEAR TestNet Wallet:
 https://wallet.testnet.near.org/
 
 2. You can use a name that would be easy to remember to create your testnet account. Once you choose a name for your account and input in the box on this page, you will be able to get an account named **account_name**.testnet 
-![Create An Account](https://github.com/gyan0890/NEAR_Quest1/blob/main/learn_src/learn_assets/Screenshot%202021-11-09%20at%2011.12.08%20PM.png)
+![Create An Account](/learn_src/learn_assets/Screenshot%202021-11-09%20at%2011.12.08%20PM.png)
 
 3. In the next page, you would be required to secure your account using one of the 4 options available. "Secure Passphrase" is one of the most secure and recommended way of securing an account. We highly recommend that.
-![Secure Account](https://github.com/gyan0890/NEAR_Quest1/blob/main/learn_src/learn_assets/Screenshot%202021-11-09%20at%2011.14.32%20PM.png)
+![Secure Account](/learn_src/learn_assets/Screenshot%202021-11-09%20at%2011.14.32%20PM.png)
 
 4. Post securing your account using a secure 12-word phrase, you would need to verify the secure phrase requested on the screen and viola, you now have a NEAR TestNet account which can be used to test your Dapps. Your account would automatically be populated with ~200 NEAR for testing purposes.
